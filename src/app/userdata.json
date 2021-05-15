@@ -1,0 +1,29 @@
+[
+  {
+      "id": 1,
+      "name": "user1",
+      "password":"password",
+      "email":"karthis668@gmail.com",
+      "phone":"1234567890",
+      "Address": "4/111, Reddiyur,Egapuram(po),Sankari(tk),Salem",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+  },
+  {
+      "id": 2,
+      "name": "user2",
+      "password":"1234567890",
+      "phone":"123456789",
+      "email":"karthis668@gmail.com",
+      "Address": "4/111, Reddiyur,Egapuram(po),Sankari(tk),Salem-1",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+  },
+  {
+      "id": 3,
+      "name": "user3",
+      "password":"123456789",
+      "phone":"1234567890",
+      "email":"karthis668@gmail.com",
+      "Address": "4/111, Reddiyur,Egapuram(po),Sankari(tk),Salem-2",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+  }
+]
